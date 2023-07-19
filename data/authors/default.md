@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
+name: U.S. Government
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
+occupation: Los Santos
+company: ParagonV
 email: address@yoursite.com
 twitter: https://twitter.com/Twitter
 linkedin: https://www.linkedin.com
 github: https://github.com
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Die U.S. Regierung sitzt in Los Santos und gilt als höchste Judi- sowie Legislative Staatsfraktion auf dem Staat.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Der Amtierende U.S. Präsident des Staates Los Santos ist **Marvin Histories**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Der Amtierende U.S. Vize-Präsident des Staates Los Santos ist **Arthur Pendragon**.
