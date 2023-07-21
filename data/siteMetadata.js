@@ -11,7 +11,7 @@ const siteMetadata = {
   image: '/static/images/avatar.png',
   socialBanner: '',
   email: 'paragonnew@airbauer.eu',
-  github: 'https://github.com',
+  github: 'https://github.com/real-airbauer/news.paragonv.us',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
